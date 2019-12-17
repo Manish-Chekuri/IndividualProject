@@ -5,172 +5,223 @@
 * 2183255C
 * INAH OMORONYIA
 
+## Semester 1: Weeks 1 - 13
 ## Week 1
 
-### 19 Oct 2019
+### Friday 27th September 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Saturday 28th September 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
 ## Week 2
 
-### 19 Oct 2019
+### Friday 4th October 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Saturday 5th October 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
 ## Week 3
 
-### 19 Oct 2019
+### Friday 11th October 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Saturday 12th October 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
 ## Week 4
 
-### 19 Oct 2019
+### Friday 18th October 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Saturday 19th October 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
 ## Week 5
 
-### 19 Oct 2019
+### Friday 25th October 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Saturday 26th October 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
 ## Week 6
 
-### 19 Oct 2019
+### Friday 1st November 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Saturday 2nd November 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
 ## Week 7
 
-### 19 Oct 2019
+### Friday 8th November 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Saturday 9th November 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
 ## Week 8
 
-### 19 Oct 2019
+### Friday 15th November 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Saturday 16th November 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
 ## Week 9
 
-### 19 Oct 2019
+### Friday 22nd November 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Saturday 23rd November 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
 ## Week 10
 
-### 19 Oct 2019
+### Friday 29th November 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Saturday 30th November 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
 ## Week 11
 
-### 19 Oct 2019
+### Monday 2nd December 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Tuesday 3rd December 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
+
+### Wednesday 4th December 2019
+
+* *4 hours* Read the project guidance notes
+* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
+* *1 hour* Modified dissertation template, compiled  
+
+## Thursday 5th December 2019
+
+* *1 hour* meeting with supervisor
+* *2 hours* writing initial version of test harness
+
+### Friday 6th December 2019
+
+* *4 hours* Read the project guidance notes
+* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
+* *1 hour* Modified dissertation template, compiled  
 
 ## Week 12
 
-### 19 Oct 2019
+### Monday 9th December 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Thursday 12th December 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
+
+### Friday 13th December 2019
+
+* *4 hours* Read the project guidance notes
+* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
+* *1 hour* Modified dissertation template, compiled  
+
+## Saturday 14th December 2019
+
+* *1 hour* meeting with supervisor
+* *2 hours* writing initial version of test harness
+
+### Sunday 15th December 2019
+
+* *4 hours* Read the project guidance notes
+* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
+* *1 hour* Modified dissertation template, compiled  
 
 ## Week 13
 
-### 19 Oct 2019
+### Monday 16th December 2019
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 * *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Tuesday 17th December 2019
 
 * *1 hour* meeting with supervisor
 * *2 hours* writing initial version of test harness
 
+### Wednesday 18th December 2019
+
+* *4 hours* Read the project guidance notes
+* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
+* *1 hour* Modified dissertation template, compiled  
+
+## Thursday 19th December 2019
+
+* *1 hour* meeting with supervisor
+* *2 hours* writing initial version of test harness
+
+### Friday 20th December 2019
+
+* *4 hours* Read the project guidance notes
+* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
+* *1 hour* Modified dissertation template, compiled  
